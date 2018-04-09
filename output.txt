@@ -1,0 +1,30 @@
+Welcome to SMART PUBLIC TRANSPORTATION
+--------------------------------------------
+Enter destination id for your service:10
+Capacity of bus:40
+Enter Current stop:1
+1.pass  2.ticket: 2
+Enter the stop of passenger:4
+39 seats are available
+Thank you
+Enter Current stop:2
+1.pass  2.ticket: 1
+Enter the stop of passenger:5
+38 seats are available
+Enter Current stop:2
+1.pass  2.ticket: 2
+Enter the stop of passenger:4
+37 seats are available
+Thank you
+Enter Current stop:4
+1.pass  2.ticket: 2
+Enter the stop of passenger:7
+38 seats are available
+Thank you
+Enter Current stop:10
+1.pass  2.ticket: 2
+Enter the stop of passenger:1
+Invalid stop
+--------------------------------
+Process exited after 123.4 seconds with return value 10
+Press any key to continue . . .
